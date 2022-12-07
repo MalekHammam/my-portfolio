@@ -27,8 +27,7 @@
               "src/styles.css"
             ],
             "scripts": [
-              "src/assets/js/main.js",
-              "src/assets/js/vanilla-tilt.min.js"
+              
             ]
           },
           "configurations": {
